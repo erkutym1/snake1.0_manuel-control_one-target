@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675685110 source:c:\c test\codeblocks\snake1\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+
